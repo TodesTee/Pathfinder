@@ -2,7 +2,9 @@
 Generell gilt: 3rd Party Zeug kann nur mit expliziter Erlaubnis genutzt werden. 
 
 Alles was die Economy zerbrechen lässt und unendlich Ressourcen gibt ist in den meisten Kontexten verboten. 
-## Direkt gebannte Features (nur einsetzbar mit direkter Erlaubnis vom GM):
+
+Generell kann alles, was sich auf diesen Listen befindet in non-broken ways genutzt werden, allerdings denke ich ist es am einfachsten, manche Features einfach zu bannen, die das Gameplay und den Spielspaß für die anderen Spieler und den GM einschränken. 
+## Direkt gebannte Features (nur einsetzbar mit direkter Erlaubnis vom GM, selbst dann wahrscheinlich nur eingeschränkt):
 - [Cyclops Helmet](https://www.d20pfsrd.com/magic-items/wondrous-items/c-d/cyclops-helm/) - Extrem starker Weg, an garantiere Crits für sehr günstigen Preis und ohne Downside. Kann auch außerhalb von Kämpfen (für *jeden* d20 Wurf) genutzt werden, was die Versatility auch sehr stark macht. 
 - [Blood Money](https://www.d20pfsrd.com/magic/all-spells/b/blood-money/) - Generiert unendlich viel Geld mit lachhaft niedriger downside, die man mit dem Spell an sich umgehen kann. 
 - [Shield of the Mage](https://www.aonprd.com/MagicIntelligentDisplay.aspx?ItemName=Shield%20of%20the%20Mage) - Generiert unendlich viele spells - besonders für spontane Casters erlaubt das das "durchcyclen" von Spells
@@ -17,6 +19,13 @@ Alles was die Economy zerbrechen lässt und unendlich Ressourcen gibt ist in den
 - [Herbalism Druid](https://www.aonprd.com/DruidHerbalism.aspx) - Extrem viele Tränke können ohne Kosten hergestellt werden - diese können sogar verkauft werden. Ermöglicht mit genug Zeit Geld aus dem nichts zu erschaffen und gratis Spells zu erhalten. 
 - [Thistle Arrows](https://www.d20pfsrd.com/equipment/weapons/weapon-descriptions/ammunition/ammunition-bow-arrows-common/ammunition-bow-arrow-thistle/) - beide Varianten - extrem günstiger Weg, um an Bleed damage zu kommen. Ab Mid-Leveln kein Grund, nicht ausschließlich nur diese zu verwenden. 
 - [Trompe l'Oeil Crafting](https://www.aonprd.com/MonsterDisplay.aspx?ItemName=Trompe%20l%27Oeil) - lachhaft einfacher Weg, an unendliche Loops und enorme Kampfstärke heranzukommen. Ermöglicht Kreaturen jenseits der eigenen Stärke zu erschaffen, die einem in jedem Fall gehorchen müssen. 
+- Evolved Summons mit Bleed Evolution - sehr einfacher Schaden, den manche Gegner nicht heilen können, was einige Encounter mit unintelligenten Wesen zu einfach macht. 
+- [Summon Guardian Spirit](https://www.d20pfsrd.com/feats/general-feats/summon-guardian-spirit/) - exzellente Template mit einer enormen Auswahl an Kreaturen. Ermöglicht sehr sehr günstiges Scounten o.ä. ohne Nachteile. Mit dem CL-Bump werden viele beschworene Kreaturen sehr stark. Ermöglicht aufgrund riesiger Auswahl sehr, sehr starke Optionen (Silvanshee für sehr viel Heilung, ...)
+- [Master Summoner Archetype](https://www.d20pfsrd.com/classes/base-classes/summoner/archetypes/paizo-summoner-archetypes/master-summoner/) - ermöglicht aufgrund von Menge an Summons mit enormer Kampfkraft, das Spiel in Kampf-Situationen alleine zu spielen. Viel zu hohes Powerlevel. 
+- [Synthesist Summoner Archetype](https://www.d20pfsrd.com/classes/base-classes/summoner/archetypes/paizo-summoner-archetypes/synthesist/) - ermöglicht extrem gute physische & Mentale Stats ohne Downside zu haben. Macht den Hauptcharakter zum absolutem Kampfmonster. 
+- [Alter Summoned Monster](https://www.d20pfsrd.com/magic/all-spells/a/alter-summoned-monster/) - Ermöglicht es, über Spells wie Summon Mount (evtl. Heightened) mit langer Duration Monster über enorm lange Zeiträume ohne Downside zu haben. 
+- [Summon Laborers](https://www.aonprd.com/SpellDisplay.aspx?ItemName=Summon%20Laborers) - beschwört nicht weiter spezifizierte humanoide Petitioners, die unter anderem über Class-Level definiert sind. Der Spell ist sehr schwammig formuliert und daher eher besser, nicht eingesetzt zu werden. 
 
 ## Eingeschränkte Bans: 
 - Craften von [Helm of Opposite Alignment](https://www.aonprd.com/MagicCursedDisplay.aspx?ItemName=Helm%20of%20Opposite%20Alignment) (billigste Kosten: 900 GP) - bricht das Spiel dadurch, dass Gegner aufs Opposite Alignment gesetzt werden - kann genutzt werden, um Gegner ohne Aufwand zu konvertieren, was das Narrativ sehr einfach kaputt machen kann. 
+- Generell ist der "Chained" Summoner nicht benutzbar aufgrund von **Spellliste** und **extrem starkem Eidolon**. Der Unchained Summoner ist diesem in jedem Fall vorzuziehen. 
